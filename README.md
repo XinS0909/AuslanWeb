@@ -12,7 +12,11 @@ The effectiveness of the system is further validated through user feedback, rece
 
 ## User Interface of AuslanWeb
 
-The user interface of AuslanWeb is designed for bidirectional translation of both isolated and successive sign language, as shown in Figure `system_UI_overall`.
+The user interface of AuslanWeb is designed for bidirectional translation of both isolated and successive sign language.
+
+<p align="center">
+<img src="Demo_Image/UI_Design.jpg" alt="The overall design of the proposed AuslanWeb user interface." title="The overall design of the proposed AuslanWeb user interface." width="500">
+</p>
 
 Each functionality addresses a specific aspect of bidirectional Auslan-English translation:
 
@@ -28,9 +32,6 @@ Each functionality addresses a specific aspect of bidirectional Auslan-English t
 - **Auslan-to-English Translation:**  
   Users can input successive Auslan sign videos for translation into long-form English sentences. The system segments and recognizes the signs, maps them to glosses using the Auslan dictionary, and constructs grammatically coherent English sentences.
 
-<p align="center">
-<img src="Demo_Image/UI_Design.jpg" alt="Alt text" title="The overall design of the proposed AuslanWeb user interface." width="500">
-</p>
 
 ## User Interface Demonstration
 The user interface of our system has been meticulously crafted to ensure accessibility, clarity, and functionality. 
