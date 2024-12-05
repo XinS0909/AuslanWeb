@@ -8,3 +8,11 @@ For the former, **AuslanWeb** achieves high-precision mapping between isolated s
 For the latter, it leverages the advanced contextual understanding and text generation capabilities of Large Language Models (LLMs) to support bidirectional translation between successive sign language videos and long-form spoken language.
 By integrating linguistic structure with advanced AI capabilities, AuslanWeb overcomes the limitations of dataset dependency and enhances the scalability of sign language translation systems. 
 The effectiveness of the system is further validated through user feedback, receiving consistent praise from Auslan experts, Australian deaf individuals, and volunteers.
+
+
+<video width="640" height="360" controls>
+  <source src="Demo_Video/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
