@@ -20,6 +20,8 @@ Each module is developed to operate independently while maintaining consistent d
 
 <img src="Demo_Image/UI.jpg" alt="Alt text" title="" width="500">
 
-[Download or play the video](Demo_Video/Demo.mp4)
+## AuslanWeb Demo Video
+
+[Download or play the demo video.](Demo_Video/Demo.mp4)
 
 
