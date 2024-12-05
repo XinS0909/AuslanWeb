@@ -30,6 +30,7 @@ Each functionality addresses a specific aspect of bidirectional Auslan-English t
 
 <img src="Demo_Image/UI_Design.jpg" alt="Alt text" title="The overall design of the proposed AuslanWeb user interface." width="500">
 
+
 ## User Interface Demonstration
 The user interface of our system has been meticulously crafted to ensure accessibility, clarity, and functionality. 
 The design enables users to seamlessly navigate through the key modules of the Auslan dictionary, recognition, and translation system. 
