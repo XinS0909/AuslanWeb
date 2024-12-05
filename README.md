@@ -18,6 +18,10 @@ The user interface of AuslanWeb is designed for bidirectional translation of bot
 <img src="Demo_Image/UI_Design.jpg" alt="The overall design of the proposed AuslanWeb user interface." title="The overall design of the proposed AuslanWeb user interface." width="500">
 </p>
 
+<p align="center">
+  <em>The overall design of the proposed AuslanWeb user interface.</em>
+</p>
+
 Each functionality addresses a specific aspect of bidirectional Auslan-English translation:
 
 - **Auslan Dictionary:**  
@@ -42,6 +46,10 @@ Each module is developed to operate independently while maintaining consistent d
 
 <p align="center">
 <img src="Demo_Image/UI_Test.jpg" alt="Alt text" title="User interface demonstration for Auslan Dictionary, Recognition, and Bidirectional Translation Modules." width="500">
+</p>
+
+<p align="center">
+  <em>User interface demonstration for Auslan Dictionary, Recognition, and Bidirectional Translation Modules.</em>
 </p>
 
 ### AuslanWeb Demo Video
