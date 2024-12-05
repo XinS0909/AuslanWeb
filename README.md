@@ -28,8 +28,9 @@ Each functionality addresses a specific aspect of bidirectional Auslan-English t
 - **Auslan-to-English Translation:**  
   Users can input successive Auslan sign videos for translation into long-form English sentences. The system segments and recognizes the signs, maps them to glosses using the Auslan dictionary, and constructs grammatically coherent English sentences.
 
+<p align="center">
 <img src="Demo_Image/UI_Design.jpg" alt="Alt text" title="The overall design of the proposed AuslanWeb user interface." width="500">
-
+</p>
 
 ## User Interface Demonstration
 The user interface of our system has been meticulously crafted to ensure accessibility, clarity, and functionality. 
@@ -38,8 +39,9 @@ A detailed view of the interface is shown in following figure.
 The user interface emphasizes intuitive navigation, responsive design, and a unified layout. 
 Each module is developed to operate independently while maintaining consistent design principles, ensuring an inclusive experience for all users.
 
-
+<p align="center">
 <img src="Demo_Image/UI_Test.jpg" alt="Alt text" title="User interface demonstration for Auslan Dictionary, Recognition, and Bidirectional Translation Modules." width="500">
+</p>
 
 ### AuslanWeb Demo Video
 
