@@ -10,9 +10,16 @@ By integrating linguistic structure with advanced AI capabilities, AuslanWeb ove
 The effectiveness of the system is further validated through user feedback, receiving consistent praise from Auslan experts, Australian deaf individuals, and volunteers.
 
 
-<video width="640" height="360" controls>
-  <source src="Demo_Video/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## User Interface Demonstration
+The user interface of our system has been meticulously crafted to ensure accessibility, clarity, and functionality. 
+The design enables users to seamlessly navigate through the key modules of the Auslan dictionary, recognition, and translation system. 
+A detailed view of the interface is shown in following figure.
+The user interface emphasizes intuitive navigation, responsive design, and a unified layout. 
+Each module is developed to operate independently while maintaining consistent design principles, ensuring an inclusive experience for all users.
+
+
+<img src="Demo_Image/UI.jpg" alt="Alt text" title="" width="500">
+
+[Download or play the video](Demo_Video/Demo.mp4)
 
 
