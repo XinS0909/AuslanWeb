@@ -48,7 +48,7 @@ Each module is developed to operate independently while maintaining consistent d
   <em>User interface demonstration for Auslan Dictionary, Recognition, and Bidirectional Translation Modules.</em>
 </p>
 
-### AuslanWeb Demo Video
+### AUser Interface Demonstration Video
 
 [Download or play the demo video.](Demo_Video/Demo.mp4)
 
