@@ -6,8 +6,6 @@ For the latter, it leverages the advanced contextual understanding and text gene
 By integrating linguistic structure with advanced AI capabilities, AuslanWeb overcomes the limitations of dataset dependency and enhances the scalability of sign language translation systems. 
 The effectiveness of the system is further validated through user feedback, receiving consistent praise from Auslan experts, Australian deaf individuals, and volunteers.
 
-## AuslanWeb User Interface
-
 ## User Interface of AuslanWeb
 
 The user interface of AuslanWeb is designed for bidirectional translation of both isolated and successive sign language.
