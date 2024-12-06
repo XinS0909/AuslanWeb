@@ -1,6 +1,6 @@
 # AuslanWeb
 
-## AuslanWeb: A Scalable Web-Based System for Australian Sign Language Communication
+## AuslanWeb: A Scalable Web-Based Australian Sign Language Communication System for Deaf and Hearing Individuals
 
 Effective communication between the deaf community and hearing individuals facilitates social inclusion, equal opportunities, and the dignity of vulnerable populations.  However, Auslan, as the sign language specific to Australia, still lacks reliable tools to support effective interaction.  Existing region-specific sign language systems are constrained by limited training datasets and narrow topic domains, rendering them ineffective for bridging the linguistic gaps between sign languages and spoken languages.  To address these challenges, we propose AuslanWeb, a web-based system for translation of both isolated and successive sign language.
 For the former, **AuslanWeb** achieves high-precision mapping between isolated signs (glosses) and spoken language words or phrases through a multimodal recognition system and a versatile sign language dictionary.
