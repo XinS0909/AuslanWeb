@@ -11,7 +11,7 @@ The effectiveness of the system is further validated through user feedback, rece
 The user interface of AuslanWeb is designed for bidirectional translation of both isolated and successive sign language.
 
 <p align="center">
-<img src="Demo_Image/UI_Design.jpg" alt="The overall design of the proposed AuslanWeb user interface." title="The overall design of the proposed AuslanWeb user interface." width="1000">
+<img src="Demo_Image/UI_Design.jpg" alt="The overall design of the proposed AuslanWeb user interface." title="The overall design of the proposed AuslanWeb user interface." width="1500">
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ The user interface emphasizes intuitive navigation, responsive design, and a uni
 Each module is developed to operate independently while maintaining consistent design principles, ensuring an inclusive experience for all users.
 
 <p align="center">
-<img src="Demo_Image/UI_Test.jpg" alt="Alt text" title="User interface demonstration for Auslan Dictionary, Recognition, and Bidirectional Translation Modules." width="1000">
+<img src="Demo_Image/UI_Test.jpg" alt="Alt text" title="User interface demonstration for Auslan Dictionary, Recognition, and Bidirectional Translation Modules." width="1500">
 </p>
 
 <p align="center">
